@@ -5,6 +5,11 @@ body{
     background-color: #fff;
 }
 
+
+.container-fluid{
+    background-color: #fff;
+}
+
 #logoLoja{
     width: 100%;
 }
